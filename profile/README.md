@@ -22,6 +22,14 @@ Kamera görüntülerini işletmeler için anlaşılır ve kullanılabilir bilgiy
 
 Biz, Turbo AI Vision'ı geliştiren ekibiz. Yapay zekâ ve görüntü işleme teknolojilerini sahadaki ihtiyaçlarla buluşturuyoruz. İşletmelerin günlük sorunlarına uygulanabilir çözümler geliştirmeye odaklanıyoruz.
 
+## Ekibimiz
+
+- **[Esat Küçe](https://github.com/esatkee)**
+- **[Ritvan Angous](https://github.com/rid-ang)**
+- **[Muhammed Sait Yıldırım](https://github.com/Zarner1)**
+
 ## Daha fazla bilgi
+
+Projemiz hakkında detaylı bilgi almak, iş birliği fırsatlarını değerlendirmek veya sorularınızı paylaşmak için ekibimizle GitHub profilleri üzerinden bağlantı kurabilirsiniz. Çözümlerimizi daha yakından tanımak için web sitemizi ziyaret edebilirsiniz.
 
 🌐 [Web sitemizi ziyaret edin](https://turboaivision.com/)
